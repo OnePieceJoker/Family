@@ -1,7 +1,9 @@
 [workspace]
 
 members = [
-  "demos",
+]
+
+exclude = [
 ]
 
 resolver = "2"
